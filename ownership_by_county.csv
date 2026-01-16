@@ -1,0 +1,232 @@
+county,ownership_standardized,ownership_counts
+Baringo,Community,11
+Baringo,Faith-Based,12
+Baringo,NGO,2
+Baringo,Private,18
+Baringo,Public,194
+Bomet,Faith-Based,6
+Bomet,NGO,1
+Bomet,Private,13
+Bomet,Public,123
+Bungoma,Community,1
+Bungoma,Faith-Based,19
+Bungoma,NGO,5
+Bungoma,Private,54
+Bungoma,Public,106
+Busia,Faith-Based,13
+Busia,Military,1
+Busia,NGO,5
+Busia,Private,17
+Busia,Public,82
+Elgeyo Marakwet,Community,4
+Elgeyo Marakwet,Faith-Based,12
+Elgeyo Marakwet,Private,6
+Elgeyo Marakwet,Public,111
+Embu,Academic,3
+Embu,Faith-Based,25
+Embu,NGO,2
+Embu,Private,54
+Embu,Public,93
+Garissa,Academic,2
+Garissa,Faith-Based,3
+Garissa,NGO,5
+Garissa,Private,63
+Garissa,Public,92
+Homa Bay,Community,3
+Homa Bay,Faith-Based,29
+Homa Bay,NGO,19
+Homa Bay,Private,35
+Homa Bay,Public,153
+Isiolo,Community,4
+Isiolo,Faith-Based,11
+Isiolo,Military,1
+Isiolo,Private,5
+Isiolo,Public,34
+Kajiado,Community,1
+Kajiado,Faith-Based,22
+Kajiado,NGO,13
+Kajiado,Private,183
+Kajiado,Public,94
+Kakamega,Community,4
+Kakamega,Faith-Based,30
+Kakamega,Private,91
+Kakamega,Public,156
+Kericho,Academic,1
+Kericho,Community,20
+Kericho,Faith-Based,12
+Kericho,NGO,5
+Kericho,Private,45
+Kericho,Public,127
+Kiambu,Academic,3
+Kiambu,Community,4
+Kiambu,Faith-Based,76
+Kiambu,NGO,10
+Kiambu,Private,299
+Kiambu,Public,114
+Kilifi,Community,7
+Kilifi,Faith-Based,14
+Kilifi,Military,1
+Kilifi,NGO,10
+Kilifi,Private,131
+Kilifi,Public,102
+Kirinyaga,Faith-Based,35
+Kirinyaga,NGO,12
+Kirinyaga,Private,140
+Kirinyaga,Public,62
+Kisii,Community,1
+Kisii,Faith-Based,18
+Kisii,NGO,3
+Kisii,Private,31
+Kisii,Public,116
+Kisumu,Academic,1
+Kisumu,Community,1
+Kisumu,Faith-Based,17
+Kisumu,NGO,18
+Kisumu,Private,52
+Kisumu,Public,118
+Kitui,Academic,2
+Kitui,Community,1
+Kitui,Faith-Based,28
+Kitui,NGO,1
+Kitui,Private,76
+Kitui,Public,313
+Kwale,Community,5
+Kwale,Faith-Based,6
+Kwale,NGO,3
+Kwale,Private,34
+Kwale,Public,76
+Laikipia,Faith-Based,14
+Laikipia,Military,3
+Laikipia,NGO,6
+Laikipia,Private,37
+Laikipia,Public,64
+Lamu,Community,1
+Lamu,Faith-Based,2
+Lamu,NGO,1
+Lamu,Private,15
+Lamu,Public,28
+Machakos,Academic,1
+Machakos,Community,1
+Machakos,Faith-Based,34
+Machakos,NGO,6
+Machakos,Private,171
+Machakos,Public,161
+Makueni,Community,1
+Makueni,Faith-Based,31
+Makueni,NGO,3
+Makueni,Private,61
+Makueni,Public,195
+Mandera,Faith-Based,1
+Mandera,Private,30
+Mandera,Public,58
+Marsabit,Faith-Based,16
+Marsabit,Private,26
+Marsabit,Public,73
+Meru,Academic,2
+Meru,Faith-Based,59
+Meru,NGO,5
+Meru,Private,257
+Meru,Public,138
+Migori,Community,1
+Migori,Faith-Based,27
+Migori,NGO,18
+Migori,Private,47
+Migori,Public,132
+Mombasa,Academic,1
+Mombasa,Faith-Based,15
+Mombasa,Military,3
+Mombasa,NGO,12
+Mombasa,Private,236
+Mombasa,Public,53
+Murang'A,Community,3
+Murang'A,Faith-Based,39
+Murang'A,NGO,1
+Murang'A,Private,127
+Murang'A,Public,114
+Nairobi,Academic,6
+Nairobi,Community,11
+Nairobi,Faith-Based,101
+Nairobi,Military,9
+Nairobi,NGO,119
+Nairobi,Private,559
+Nairobi,Public,137
+Nakuru,Community,1
+Nakuru,Faith-Based,56
+Nakuru,Military,2
+Nakuru,NGO,14
+Nakuru,Private,201
+Nakuru,Public,162
+Nandi,Academic,3
+Nandi,Community,13
+Nandi,Faith-Based,17
+Nandi,NGO,3
+Nandi,Private,46
+Nandi,Public,123
+Narok,Community,2
+Narok,Faith-Based,34
+Narok,NGO,9
+Narok,Private,21
+Narok,Public,113
+Nyamira,Faith-Based,16
+Nyamira,Private,36
+Nyamira,Public,88
+Nyandarua,Faith-Based,15
+Nyandarua,NGO,1
+Nyandarua,Private,68
+Nyandarua,Public,67
+Nyeri,Academic,10
+Nyeri,Community,1
+Nyeri,Faith-Based,42
+Nyeri,Military,1
+Nyeri,NGO,8
+Nyeri,Private,279
+Nyeri,Public,112
+Samburu,Faith-Based,12
+Samburu,NGO,2
+Samburu,Private,20
+Samburu,Public,63
+Siaya,Academic,1
+Siaya,Faith-Based,17
+Siaya,NGO,8
+Siaya,Private,29
+Siaya,Public,123
+Taita Taveta,Faith-Based,8
+Taita Taveta,Private,21
+Taita Taveta,Public,63
+Tana River,Faith-Based,9
+Tana River,NGO,1
+Tana River,Private,8
+Tana River,Public,47
+Tharaka Nithi,Academic,1
+Tharaka Nithi,Community,2
+Tharaka Nithi,Faith-Based,29
+Tharaka Nithi,NGO,6
+Tharaka Nithi,Private,34
+Tharaka Nithi,Public,61
+Trans Nzoia,Faith-Based,15
+Trans Nzoia,NGO,5
+Trans Nzoia,Private,81
+Trans Nzoia,Public,54
+Turkana,Community,3
+Turkana,Faith-Based,41
+Turkana,Military,2
+Turkana,NGO,2
+Turkana,Private,24
+Turkana,Public,99
+Uasin Gishu,Faith-Based,28
+Uasin Gishu,Military,1
+Uasin Gishu,NGO,4
+Uasin Gishu,Private,56
+Uasin Gishu,Public,105
+Vihiga,Faith-Based,10
+Vihiga,NGO,5
+Vihiga,Private,36
+Vihiga,Public,46
+Wajir,Faith-Based,2
+Wajir,Private,49
+Wajir,Public,107
+West Pokot,Community,2
+West Pokot,Faith-Based,20
+West Pokot,NGO,3
+West Pokot,Private,16
+West Pokot,Public,91

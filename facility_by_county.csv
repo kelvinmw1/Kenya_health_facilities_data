@@ -1,0 +1,256 @@
+county,type_standardized,facility_count
+Baringo,Administrative / Training,1
+Baringo,Clinic,14
+Baringo,Dispensary,190
+Baringo,Health Centre,23
+Baringo,Hospital,7
+Baringo,Specialized Facility,2
+Bomet,Administrative / Training,1
+Bomet,Clinic,3
+Bomet,Dispensary,115
+Bomet,Health Centre,15
+Bomet,Hospital,5
+Bomet,Specialized Facility,4
+Bungoma,Clinic,44
+Bungoma,Dispensary,100
+Bungoma,Health Centre,18
+Bungoma,Hospital,11
+Bungoma,Specialized Facility,12
+Busia,Clinic,20
+Busia,Dispensary,71
+Busia,Health Centre,15
+Busia,Hospital,7
+Busia,Specialized Facility,5
+Elgeyo Marakwet,Clinic,3
+Elgeyo Marakwet,Dispensary,99
+Elgeyo Marakwet,Health Centre,22
+Elgeyo Marakwet,Hospital,9
+Embu,Administrative / Training,3
+Embu,Clinic,51
+Embu,Dispensary,95
+Embu,Health Centre,13
+Embu,Hospital,9
+Embu,Specialized Facility,6
+Garissa,Clinic,55
+Garissa,Dispensary,68
+Garissa,Health Centre,22
+Garissa,Hospital,14
+Garissa,Specialized Facility,6
+Homa Bay,Clinic,23
+Homa Bay,Dispensary,131
+Homa Bay,Health Centre,49
+Homa Bay,Hospital,15
+Homa Bay,Specialized Facility,21
+Isiolo,Clinic,3
+Isiolo,Dispensary,42
+Isiolo,Health Centre,5
+Isiolo,Hospital,3
+Isiolo,Specialized Facility,2
+Kajiado,Administrative / Training,1
+Kajiado,Clinic,154
+Kajiado,Dispensary,93
+Kajiado,Health Centre,29
+Kajiado,Hospital,15
+Kajiado,Specialized Facility,21
+Kakamega,Administrative / Training,1
+Kakamega,Clinic,72
+Kakamega,Dispensary,130
+Kakamega,Health Centre,49
+Kakamega,Hospital,16
+Kakamega,Specialized Facility,13
+Kericho,Clinic,15
+Kericho,Dispensary,160
+Kericho,Health Centre,14
+Kericho,Hospital,15
+Kericho,Specialized Facility,6
+Kiambu,Administrative / Training,2
+Kiambu,Clinic,266
+Kiambu,Dispensary,143
+Kiambu,Health Centre,41
+Kiambu,Hospital,32
+Kiambu,Specialized Facility,22
+Kilifi,Clinic,124
+Kilifi,Dispensary,105
+Kilifi,Health Centre,16
+Kilifi,Hospital,11
+Kilifi,Specialized Facility,9
+Kirinyaga,Clinic,118
+Kirinyaga,Dispensary,67
+Kirinyaga,Health Centre,25
+Kirinyaga,Hospital,6
+Kirinyaga,Other,1
+Kirinyaga,Specialized Facility,32
+Kisii,Clinic,24
+Kisii,Dispensary,89
+Kisii,Health Centre,27
+Kisii,Hospital,23
+Kisii,Specialized Facility,6
+Kisumu,Administrative / Training,1
+Kisumu,Clinic,43
+Kisumu,Dispensary,98
+Kisumu,Health Centre,32
+Kisumu,Hospital,24
+Kisumu,Specialized Facility,9
+Kitui,Administrative / Training,1
+Kitui,Clinic,66
+Kitui,Dispensary,288
+Kitui,Health Centre,37
+Kitui,Hospital,14
+Kitui,Specialized Facility,15
+Kwale,Clinic,29
+Kwale,Dispensary,76
+Kwale,Health Centre,10
+Kwale,Hospital,5
+Kwale,Other,1
+Kwale,Specialized Facility,3
+Laikipia,Administrative / Training,1
+Laikipia,Clinic,29
+Laikipia,Dispensary,71
+Laikipia,Health Centre,9
+Laikipia,Hospital,8
+Laikipia,Other,1
+Laikipia,Specialized Facility,5
+Lamu,Clinic,13
+Lamu,Dispensary,24
+Lamu,Health Centre,5
+Lamu,Hospital,3
+Lamu,Specialized Facility,2
+Machakos,Clinic,162
+Machakos,Dispensary,154
+Machakos,Health Centre,33
+Machakos,Hospital,9
+Machakos,Other,1
+Machakos,Specialized Facility,15
+Makueni,Clinic,57
+Makueni,Dispensary,187
+Makueni,Health Centre,26
+Makueni,Hospital,13
+Makueni,Specialized Facility,8
+Mandera,Clinic,21
+Mandera,Dispensary,33
+Mandera,Health Centre,21
+Mandera,Hospital,5
+Mandera,Specialized Facility,9
+Marsabit,Clinic,23
+Marsabit,Dispensary,64
+Marsabit,Health Centre,18
+Marsabit,Hospital,5
+Marsabit,Specialized Facility,5
+Meru,Administrative / Training,2
+Meru,Clinic,227
+Meru,Dispensary,145
+Meru,Health Centre,28
+Meru,Hospital,24
+Meru,Other,12
+Meru,Specialized Facility,23
+Migori,Administrative / Training,2
+Migori,Clinic,47
+Migori,Dispensary,116
+Migori,Health Centre,28
+Migori,Hospital,18
+Migori,Specialized Facility,14
+Mombasa,Administrative / Training,1
+Mombasa,Clinic,223
+Mombasa,Dispensary,42
+Mombasa,Health Centre,12
+Mombasa,Hospital,19
+Mombasa,Specialized Facility,23
+Murang'A,Clinic,121
+Murang'A,Dispensary,130
+Murang'A,Health Centre,17
+Murang'A,Hospital,10
+Murang'A,Specialized Facility,6
+Nairobi,Administrative / Training,13
+Nairobi,Clinic,483
+Nairobi,Dispensary,199
+Nairobi,Health Centre,88
+Nairobi,Hospital,47
+Nairobi,Specialized Facility,112
+Nakuru,Administrative / Training,2
+Nakuru,Clinic,171
+Nakuru,Dispensary,160
+Nakuru,Health Centre,48
+Nakuru,Hospital,25
+Nakuru,Specialized Facility,30
+Nandi,Administrative / Training,2
+Nandi,Clinic,17
+Nandi,Dispensary,153
+Nandi,Health Centre,19
+Nandi,Hospital,7
+Nandi,Specialized Facility,7
+Narok,Clinic,16
+Narok,Dispensary,120
+Narok,Health Centre,28
+Narok,Hospital,9
+Narok,Specialized Facility,6
+Nyamira,Clinic,26
+Nyamira,Dispensary,58
+Nyamira,Health Centre,45
+Nyamira,Hospital,8
+Nyamira,Specialized Facility,3
+Nyandarua,Clinic,70
+Nyandarua,Dispensary,52
+Nyandarua,Health Centre,24
+Nyandarua,Hospital,4
+Nyandarua,Specialized Facility,1
+Nyeri,Clinic,262
+Nyeri,Dispensary,132
+Nyeri,Health Centre,25
+Nyeri,Hospital,10
+Nyeri,Specialized Facility,24
+Samburu,Clinic,16
+Samburu,Dispensary,73
+Samburu,Health Centre,5
+Samburu,Hospital,3
+Siaya,Clinic,20
+Siaya,Dispensary,99
+Siaya,Health Centre,38
+Siaya,Hospital,13
+Siaya,Specialized Facility,8
+Taita Taveta,Clinic,19
+Taita Taveta,Dispensary,48
+Taita Taveta,Health Centre,17
+Taita Taveta,Hospital,7
+Taita Taveta,Specialized Facility,1
+Tana River,Clinic,8
+Tana River,Dispensary,49
+Tana River,Health Centre,5
+Tana River,Hospital,2
+Tana River,Specialized Facility,1
+Tharaka Nithi,Clinic,39
+Tharaka Nithi,Dispensary,72
+Tharaka Nithi,Health Centre,13
+Tharaka Nithi,Hospital,8
+Tharaka Nithi,Specialized Facility,1
+Trans Nzoia,Administrative / Training,1
+Trans Nzoia,Clinic,70
+Trans Nzoia,Dispensary,53
+Trans Nzoia,Health Centre,11
+Trans Nzoia,Hospital,11
+Trans Nzoia,Other,3
+Trans Nzoia,Specialized Facility,6
+Turkana,Administrative / Training,3
+Turkana,Clinic,26
+Turkana,Dispensary,117
+Turkana,Health Centre,16
+Turkana,Hospital,8
+Turkana,Specialized Facility,1
+Uasin Gishu,Clinic,44
+Uasin Gishu,Dispensary,104
+Uasin Gishu,Health Centre,27
+Uasin Gishu,Hospital,13
+Uasin Gishu,Specialized Facility,6
+Vihiga,Clinic,34
+Vihiga,Dispensary,29
+Vihiga,Health Centre,23
+Vihiga,Hospital,5
+Vihiga,Specialized Facility,6
+Wajir,Clinic,43
+Wajir,Dispensary,72
+Wajir,Health Centre,27
+Wajir,Hospital,12
+Wajir,Specialized Facility,4
+West Pokot,Clinic,15
+West Pokot,Dispensary,104
+West Pokot,Health Centre,8
+West Pokot,Hospital,5
